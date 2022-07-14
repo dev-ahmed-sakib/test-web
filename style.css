@@ -5,11 +5,17 @@
 
 ul{
     background: orange;
+    text-align: center;
+
 }
 ul li{
     display: inline-block;
+
 }
 ul li a{
     text-decoration: none;
     padding: 25px 15px;
+    display: inline-block;
+    color: white;
+    font-size: 1.8rem;
 }
